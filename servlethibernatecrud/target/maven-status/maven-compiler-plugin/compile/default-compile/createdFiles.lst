@@ -1,0 +1,4 @@
+com\kgisl\servlet\UserServlet.class
+com\kgisl\model\User.class
+com\kgisl\dao\HibernateUtil.class
+com\kgisl\dao\UserDao.class
